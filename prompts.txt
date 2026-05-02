@@ -1,0 +1,107 @@
+Prompt System Used in This Project
+
+---
+
+1. Pillar Blog Generation Prompt
+
+Act as an SEO expert and content strategist.
+
+Create a long-form SEO blog for a business targeting the keyword:
+"[INSERT PRIMARY KEYWORD]"
+
+Requirements:
+
+* 1200–1500 words
+* Use H1, H2, H3 structure
+* Include:
+
+  * Introduction (problem + solution)
+  * Explanation of topic
+  * Services or key offerings
+  * Benefits
+  * Pricing overview (if applicable)
+  * How to choose the service/provider
+  * FAQ section
+  * Strong call-to-action
+* Use simple, beginner-friendly English
+* Include location (e.g., Bangalore) for local SEO
+* Add internal linking suggestions to supporting blogs
+* Make it conversion-focused (not just informational)
+
+---
+
+2. Supporting Blog Generation Prompt
+
+Act as an SEO content writer.
+
+Create a detailed SEO blog targeting the keyword:
+"[INSERT SUPPORTING KEYWORD]"
+
+Requirements:
+
+* 800–1000 words
+* Use clear H1, H2, H3 headings
+* Focus on solving user intent
+* Use simple and easy-to-understand language
+* Include location (Bangalore) naturally where relevant
+* Add examples where possible
+* Include FAQ section
+* Add a call-to-action at the end
+* Include internal linking to the pillar blog
+
+---
+
+3. Content Cluster Planning Prompt
+
+Act as an SEO strategist.
+
+Create a content cluster for the topic:
+"[INSERT MAIN TOPIC]"
+
+Include:
+
+* 1 pillar blog topic
+* 4–5 supporting blog topics
+* Target keyword for each blog
+* Search intent (informational, transactional, commercial)
+* Internal linking strategy
+
+Format the output in a table.
+
+---
+
+4. Local SEO Optimization Prompt
+
+Act as a local SEO expert.
+
+Rewrite or improve the blog content to optimize for local SEO.
+
+Requirements:
+
+* Include location-based keywords (e.g., Bangalore)
+* Add “near me” variations naturally
+* Use service + location combinations
+* Keep content natural and readable
+* Avoid keyword stuffing
+
+---
+
+5. Blog Improvement Prompt
+
+Act as an SEO editor.
+
+Improve the given blog content to make it:
+
+* More engaging
+* SEO-optimized
+* Conversion-focused
+
+Focus on:
+
+* Strong introduction
+* Better headings
+* Clear structure
+* Internal linking suggestions
+* Improved call-to-action
+
+Do not make the content complex — keep it beginner-friendly.
